@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777455207843,
+      "tag": "0000_regular_supreme_intelligence",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777455357994,
+      "tag": "0001_icy_black_bolt",
+      "breakpoints": true
+    }
+  ]
+}
